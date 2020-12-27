@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foodrecipeapp/static/css/main.7e792098.chunk.css",
+    "main.js": "/foodrecipeapp/static/js/main.8cc70ac7.chunk.js",
+    "main.js.map": "/foodrecipeapp/static/js/main.8cc70ac7.chunk.js.map",
+    "runtime-main.js": "/foodrecipeapp/static/js/runtime-main.4f072380.js",
+    "runtime-main.js.map": "/foodrecipeapp/static/js/runtime-main.4f072380.js.map",
+    "static/js/2.349e742b.chunk.js": "/foodrecipeapp/static/js/2.349e742b.chunk.js",
+    "static/js/2.349e742b.chunk.js.map": "/foodrecipeapp/static/js/2.349e742b.chunk.js.map",
+    "index.html": "/foodrecipeapp/index.html",
+    "precache-manifest.e258d07f5f1aa61e0649aec101803275.js": "/foodrecipeapp/precache-manifest.e258d07f5f1aa61e0649aec101803275.js",
+    "service-worker.js": "/foodrecipeapp/service-worker.js",
+    "static/css/main.7e792098.chunk.css.map": "/foodrecipeapp/static/css/main.7e792098.chunk.css.map",
+    "static/js/2.349e742b.chunk.js.LICENSE.txt": "/foodrecipeapp/static/js/2.349e742b.chunk.js.LICENSE.txt",
+    "static/media/main.module.css": "/foodrecipeapp/static/media/bg.d729597e.jpg",
+    "static/media/cooking.svg": "/foodrecipeapp/static/media/cooking.2d0ff9ee.svg",
+    "static/media/heart.svg": "/foodrecipeapp/static/media/heart.a8cd76c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f072380.js",
+    "static/js/2.349e742b.chunk.js",
+    "static/css/main.7e792098.chunk.css",
+    "static/js/main.8cc70ac7.chunk.js"
+  ]
+}
