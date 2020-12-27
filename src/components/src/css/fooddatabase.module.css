@@ -1,0 +1,42 @@
+
+   .fooddataBaseTable {
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        width: 100%;
+      }
+    .image {
+        border-collapse: collapse;
+        border: 1px solid black;
+        text-align: center;
+        width: 10%;
+    }
+
+    .food{
+        border-collapse: collapse;
+        border: 1px solid black;
+        text-align: center;
+        width: 15%;
+
+    }
+    .quantity{
+        border-collapse: collapse;
+        border: 1px solid black;
+        text-align: center;
+        width: 10%;
+
+    }
+    .unit{
+        border-collapse: collapse;
+        border: 1px solid black;
+        width: 5%;
+        text-align: center;
+
+    }
+    .healthLables{
+        border-collapse: collapse;
+        border: 1px solid black;
+        width: 5%;
+        text-align: center;
+
+    }

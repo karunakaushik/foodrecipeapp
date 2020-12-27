@@ -1,0 +1,16 @@
+.outercontainer{
+    background-color:#444a5a;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+.outercontainer h1{
+    margin: 0;
+    padding: 15px;
+    font-family: Arial;
+}
+.outercontainer img{
+    width: 80px;
+}
