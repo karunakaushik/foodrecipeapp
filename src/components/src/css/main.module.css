@@ -77,7 +77,9 @@
     height: fit-content;
     flex-direction: column;
     flex-wrap: wrap;
+    text-align: center;
 }
+
 .dataoffood{
     display: flex;
     flex-wrap: wrap;

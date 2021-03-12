@@ -5,3 +5,20 @@
     flex-direction: column;
     border: 2px solid green;
 }
+.discriptonrecipe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    text-align: justify;
+}
+
+@media only screen and (max-width: 600px){
+    .recipe{
+        border:none
+    }
+    .recipe h1{
+        font-size: 20px;
+    }
+}
